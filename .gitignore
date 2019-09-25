@@ -2,3 +2,5 @@
 .DS_Store
 homework/data/application_train.csv
 *.pdf
+/sample and pdf
+homework/data
